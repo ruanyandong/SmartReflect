@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmartReflect:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SmartReflect_jar</output-path>
+    <root id="archive" name="SmartReflect.jar">
+      <element id="module-output" name="SmartReflect" />
+    </root>
+  </artifact>
+</component>
